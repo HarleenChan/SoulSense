@@ -1,5 +1,10 @@
 # SoulSense: Sentiment Analysis Dashboard 🌊
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Last Commit](https://img.shields.io/github/last-commit/HarleenChan/SoulSense)
+![License: MIT](https://img.shields.io/github/license/HarleenChan/SoulSense)
+
+
 SoulSense is a lightweight sentiment analysis pipeline and dashboard built with Python, Streamlit, and MySQL.  
 It analyzes text data (like customer feedback or logs), calculates sentiment using VADER, and provides a clean dashboard interface to view, filter, and manage insights.
 
