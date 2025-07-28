@@ -2,7 +2,7 @@
 Allow users to enter their daily emotions in raw text.
 The interface is clean, minimal, and user-friendly.
 
-C:\Users\Chetan Kumar Sharma\OneDrive\Desktop\Emotion Journal Entry Page.png
+
 
 
 
@@ -10,4 +10,4 @@ C:\Users\Chetan Kumar Sharma\OneDrive\Desktop\Emotion Journal Entry Page.png
 After submission, the platform detects the sentiment (Positive / Negative / Neutral)
 and visualizes it with color-coded tags and scores.
 
-C:\Users\Chetan Kumar Sharma\OneDrive\Desktop\Sentiment Analysis Output.png
+
