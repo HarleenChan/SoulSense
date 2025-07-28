@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Last Commit](https://img.shields.io/github/last-commit/HarleenChan/SoulSense)
 ![License: MIT](https://img.shields.io/github/license/HarleenChan/SoulSense)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/meenal-p-chan)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/meenal-padgil-3392452b3/)
 
 
 
